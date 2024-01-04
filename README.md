@@ -7,7 +7,7 @@ Hello, I'm Quoc Su from Austria, currently studying programming @42vienna. I enj
 
 ## Skills and experience 
  * 💻 C / C++
- * 💣 Forkbombing a pc 
+ * 💣 Crashing a pc (research purposes of course)
 
 
 
